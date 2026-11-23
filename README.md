@@ -1,23 +1,11 @@
-# Horario Escolar — North Hills Pilar · DEMO NO OFICIAL
+# Horario Escolar — North Hills Pilar V1.0.3 DE PRUEBA
 
-**MARK-TECH SOFTWARE · V1.0.2 (estable para demostraciones comerciales)**
+Actualización visual exclusivamente de la zona inferior al banner con el diseño aprobado de Chesterton V1.4.42.
 
-Esta es una demostración comercial independiente, no oficial y con **horarios ficticios**.
-No está vinculada al Colegio North Hills.
+Cambios: título «Horario Escolar» y año 2027 en una fila sin cápsula, franja «Turno mañana/tarde» y «MODO DEMO», etiqueta «· Hoy» en el día local sin sustituir el contador, misma estética del control de temas y tarjetas.
 
-## Publicación con GitHub Pages
+No se modificaron el logotipo North Hills, el escudo, los íconos, los horarios ficticios, los 12 cursos, las claves de localStorage, el selector, la ayuda ni la lógica de compartir.
 
-1. Crear un repositorio público `horario-escolar-north-hills-pilar`.
-2. Subir todos los archivos de esta carpeta a la raíz de la rama `main`, no la carpeta en sí.
-3. Entrar en **Settings → Pages → Build and deployment**.
-4. Seleccionar **Deploy from a branch**, rama **main**, carpeta **/ (root)**, y guardar.
-5. Comprobar la dirección:
-   `https://marcepilar.github.io/horario-escolar-north-hills-pilar/`
+**DEMO NO OFICIAL: horarios ficticios; no representa horarios del Colegio North Hills.**
 
-## Alcance
-- Horarios ilustrativos para 1.º a 6.º A/B.
-- Tres temas, selector de cursos, vistas de jornadas, compartir y ayuda.
-- Manifest, íconos, service worker y versionado independientes.
-- Los datos se almacenan localmente en el dispositivo; la app no exige cuentas.
-
-Nota: GitHub Pages publica estos archivos de forma pública.
+Todavía NO PUBLICADA ni declarada estable; requiere confirmación del usuario.
