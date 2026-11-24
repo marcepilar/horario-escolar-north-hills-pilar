@@ -1,5 +1,5 @@
 /* Colegio North Hills — DEMO NO OFICIAL. No comparte caché con otros colegios. */
-const CACHE_NAME = 'marktech-horario-north-hills-pilar-demo-v1.0.3';
+const CACHE_NAME = 'marktech-horario-north-hills-pilar-demo-v1.0.4';
 const SHELL = [ './', './index.html','./manifest.webmanifest','./version.json',
   './escudo-north-hills-hd.png','./icon-192.png','./icon-512.png','./apple-touch-icon.png','./logotipo-north-hills-hd.png','./icon-maskable-512.png','./favicon-48.png', './qr-horario.png' ];
 self.addEventListener('install', event=>{

@@ -1,5 +1,7 @@
 {
-  "version": "V1.0.3",
+  "version": "V1.0.4",
   "app": "Horario Escolar · Colegio North Hills · DEMO NO OFICIAL",
-  "updated": "2026-11-23"
+  "updated": "2026-11-23",
+  "status": "PRUEBA",
+  "notes": "Selector de idiomas ES/EN/PT/FR/DE/IT, traducción de materias y navegación, ayuda localizada. No publicar hasta aprobación."
 }

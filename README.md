@@ -1,11 +1,11 @@
-# Horario Escolar — North Hills Pilar V1.0.3 DE PRUEBA
+# Colegio North Hills · Horario Escolar V1.0.4 DE PRUEBA
 
-Actualización visual exclusivamente de la zona inferior al banner con el diseño aprobado de Chesterton V1.4.42.
+Base: V1.0.3. Se conservaron logotipo, íconos, cursos, materias, horarios y año lectivo.
 
-Cambios: título «Horario Escolar» y año 2027 en una fila sin cápsula, franja «Turno mañana/tarde» y «MODO DEMO», etiqueta «· Hoy» en el día local sin sustituir el contador, misma estética del control de temas y tarjetas.
+**IDIOMAS:** Español, English, Português, Français, Deutsch e Italiano.
 
-No se modificaron el logotipo North Hills, el escudo, los íconos, los horarios ficticios, los 12 cursos, las claves de localStorage, el selector, la ayuda ni la lógica de compartir.
+**Publicación:** extraer el ZIP en la RAÍZ del repositorio GitHub Pages correspondiente, reemplazando los archivos existentes, conservando la URL del proyecto. No publicar hasta revisar la PWA en un móvil.
 
-**DEMO NO OFICIAL: horarios ficticios; no representa horarios del Colegio North Hills.**
+**Pruebas:** ver INFORME_PRUEBAS.txt.
 
-Todavía NO PUBLICADA ni declarada estable; requiere confirmación del usuario.
+**Versión:** V1.0.4 PRUEBA.
